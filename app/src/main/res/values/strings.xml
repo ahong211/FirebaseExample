@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirebaseExample</string>
+    <string name="auth_failed">AUTHENTICATION FAILED</string>
 </resources>
